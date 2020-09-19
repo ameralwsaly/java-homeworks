@@ -1,3 +1,3 @@
 # Java 101 Homeworks
-**java 101 term homeworks**
+**java 101 subject homeworks**
 
